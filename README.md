@@ -12,8 +12,8 @@
 
 ## インストール
 
-* 下記ページからダウンロードして解凍
-    * html
+* 下記からダウンロードして解凍
+    * [MultiImageViewer.ver.0.1.zip](https://github.com/kengo700/multi_image_viewer/releases/download/v0.1/MultiImageViewer.ver.0.1.zip)
 
 ## 使い方
 
