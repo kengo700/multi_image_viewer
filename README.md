@@ -2,6 +2,7 @@
 
 4つの枠に画像を並べて表示できるシンプルな画像ビューアです。画像の拡大・縮小、回転、左右反転が可能です。
 
+<img src="https://github.com/kengo700/multi_image_viewer/blob/images/miv_sample_5.jpg" width="500px">
 
 ## 動作環境
 
@@ -11,8 +12,8 @@
 
 ## インストール
 
-* 下記ページからダウンロードして解凍
-    * html
+* 下記からダウンロードして解凍
+    * [MultiImageViewer.ver.0.1.zip](https://github.com/kengo700/multi_image_viewer/releases/download/v0.1/MultiImageViewer.ver.0.1.zip)
 
 ## 使い方
 
