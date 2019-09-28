@@ -5,7 +5,7 @@
 
 ## 動作環境
 
-・Windows 10
+* Windows 10
 
 「.NET Framework 4.6」をインストールすれば、Windows 8以前でも使用できるかもしれません。
 
